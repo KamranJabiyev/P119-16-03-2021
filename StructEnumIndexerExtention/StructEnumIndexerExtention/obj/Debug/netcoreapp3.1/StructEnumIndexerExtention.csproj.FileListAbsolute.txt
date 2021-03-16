@@ -1,0 +1,11 @@
+E:\P119\C#\StructEnumIndexerExtention\StructEnumIndexerExtention\bin\Debug\netcoreapp3.1\StructEnumIndexerExtention.exe
+E:\P119\C#\StructEnumIndexerExtention\StructEnumIndexerExtention\bin\Debug\netcoreapp3.1\StructEnumIndexerExtention.deps.json
+E:\P119\C#\StructEnumIndexerExtention\StructEnumIndexerExtention\bin\Debug\netcoreapp3.1\StructEnumIndexerExtention.runtimeconfig.json
+E:\P119\C#\StructEnumIndexerExtention\StructEnumIndexerExtention\bin\Debug\netcoreapp3.1\StructEnumIndexerExtention.runtimeconfig.dev.json
+E:\P119\C#\StructEnumIndexerExtention\StructEnumIndexerExtention\bin\Debug\netcoreapp3.1\StructEnumIndexerExtention.dll
+E:\P119\C#\StructEnumIndexerExtention\StructEnumIndexerExtention\bin\Debug\netcoreapp3.1\StructEnumIndexerExtention.pdb
+E:\P119\C#\StructEnumIndexerExtention\StructEnumIndexerExtention\obj\Debug\netcoreapp3.1\StructEnumIndexerExtention.csprojAssemblyReference.cache
+E:\P119\C#\StructEnumIndexerExtention\StructEnumIndexerExtention\obj\Debug\netcoreapp3.1\StructEnumIndexerExtention.AssemblyInfoInputs.cache
+E:\P119\C#\StructEnumIndexerExtention\StructEnumIndexerExtention\obj\Debug\netcoreapp3.1\StructEnumIndexerExtention.AssemblyInfo.cs
+E:\P119\C#\StructEnumIndexerExtention\StructEnumIndexerExtention\obj\Debug\netcoreapp3.1\StructEnumIndexerExtention.dll
+E:\P119\C#\StructEnumIndexerExtention\StructEnumIndexerExtention\obj\Debug\netcoreapp3.1\StructEnumIndexerExtention.pdb
